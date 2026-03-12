@@ -75,7 +75,7 @@ export default function Contact() {
               <h4 className="font-semibold text-slate-900 mb-4">Connect on Social</h4>
               <div className="flex gap-4">
                 <a
-                  href="https://github.com/amrh9925"
+                  href="https://github.com/Amrh9925"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="p-3 bg-slate-900 text-white rounded-lg hover:bg-slate-800 transition-all hover:scale-110"
@@ -83,7 +83,7 @@ export default function Contact() {
                   <Github className="w-5 h-5" />
                 </a>
                 <a
-                  href="https://linkedin.com/in/amr-helmy"
+                  href="www.linkedin.com/in/amr-helmy-860407244"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="p-3 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-all hover:scale-110"

@@ -39,7 +39,7 @@ export default function Hero() {
 
           <div className="flex justify-center gap-4 mb-12">
             <a
-              href="https://github.com/amrh9925"
+              href="https://github.com/Amrh9925"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-2 px-6 py-3 bg-white/10 backdrop-blur-sm rounded-lg hover:bg-white/20 transition-all duration-300 border border-white/20 hover:scale-105"
@@ -48,7 +48,7 @@ export default function Hero() {
               <span>GitHub</span>
             </a>
             <a
-              href="https://linkedin.com/in/amr-helmy"
+              href="www.linkedin.com/in/amr-helmy-860407244"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-2 px-6 py-3 bg-blue-600 rounded-lg hover:bg-blue-700 transition-all duration-300 hover:scale-105"
