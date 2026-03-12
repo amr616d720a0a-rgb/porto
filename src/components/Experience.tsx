@@ -42,7 +42,7 @@ export default function Experience() {
       role: 'Data Analysis Trainee',
       organization: 'Creativa',
       period: 'Mar 2024 – Jun 2024',
-      type: 'Internship',
+      type: 'Training Program',
       description: 'Performed exploratory data analysis and statistical modeling on business datasets.',
       highlights: [
         'Performed EDA and statistical modeling on business datasets',
